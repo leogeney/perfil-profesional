@@ -9,8 +9,9 @@
  */
 *{
     margin: 0;
-    box-sizing:border-box
+    box-sizing: border-box;
 }
+
  html {
     line-height: 1.15; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
@@ -42,7 +43,7 @@
   
   h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin: 0;
   }
   
   /* Grouping content
