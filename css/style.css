@@ -111,7 +111,7 @@ body{
 
 .btn{
     display: inline-block;
-    background-color: #2091f9;
+    background-color: #ff0000;
     justify-self: center;
     color: #fff;
     text-decoration: none;
@@ -233,7 +233,7 @@ body{
 }
 
 .testimony_course{
-    background-color: royalblue;
+    background-color: rgb(225, 65, 65);
     color: #fff;
     display: inline-block;
     padding: 5px;
